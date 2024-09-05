@@ -9,8 +9,9 @@ The supermarket recently secured funding from a bank and is seeking to expand it
 ## How to View
 
 To view the analysis and visualizations:
-1. Download the `Supermarket_Data_Analysis.html` file.
-2. Open it in a web browser to explore the visualizations and insights generated.
+1. Download the `Supermarket_Data_Analysis.ipynb` file.
+2. Open it using Jupyter Notebook or Google Colab.
+3. Run the notebook to explore the visualizations and insights generated.
 
 ## Tools Used
 - **Python**: For data cleaning, analysis, and visualization.
